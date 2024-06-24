@@ -1,0 +1,48 @@
+body {
+    font-family: Meiryo, Osaka,"MS PGothic",sans-serif;
+    font-size: 12px;
+    line-height: 1.4em;
+    font-weight: normal;
+    background-color: #00CCCC;
+    text-align: center;
+    color: #CCC;
+    }
+#container{
+    margin: 0 auto;
+    padding: 0px;
+    height: auto;
+    width: 460px;
+    }
+h2{
+    font-weight: normal;
+    color: #CCC
+    }
+table{
+    width: 98%;
+    border-top-width: thin;
+    border-right-width: thin;
+    border-bottom-width: thin;
+    border-left-width: thin;
+    padding: 8px;
+    margin: 8px;
+    background-image: url(../img/basketball_dunk.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    line-height: 2em;
+    }
+tr{
+    margin-top: 8px;
+}
+th{
+    color: #CCC;
+    background-color: #CCC;
+    width:40%;
+    }
+td{
+    color: #CCC;
+    padding-left: 10px;
+    text-align: left;
+    }
+.p_img{
+    width: 141px;
+    }
